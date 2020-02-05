@@ -25,6 +25,8 @@ $ couchbase-exporter --couchbase.username adm --couchbase.password secret
 
 > check `couchbase-exporter --help` for more options!
 
+See as well sample couchbase-exporter.service file for [systemd](https://github.com/systemd/systemd) environments.
+
 ## What's included
 
 - the exporter itself
